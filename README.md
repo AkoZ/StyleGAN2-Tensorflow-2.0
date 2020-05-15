@@ -1,4 +1,5 @@
 # StyleGAN2 Tensorflow 2.0
+paysages en chgt de saisons .. pas du semantic.. à vérifier ,semble facile à utiliser .. 
 
 Unofficial implementation of StyleGAN 2 using TensorFlow 2.0.
 
@@ -8,10 +9,13 @@ Arxiv: https://arxiv.org/abs/1912.04958
 
 
 This implementation includes all improvements from StyleGAN to StyleGAN2, including:
-
-Modulated/Demodulated Convolution, Skip block Generator, ResNet Discriminator, No Growth,
-
-Lazy Regularization, Path Length Regularization, and can include larger networks (by adjusting the cha variable).
+Modulated/Demodulated Convolution,
+Skip block Generator, 
+ResNet Discriminator, 
+No Growth,
+Lazy Regularization, 
+Path Length Regularization, 
+and can include larger networks (by adjusting the cha variable).
 
 
 
